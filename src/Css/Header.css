@@ -1,0 +1,12 @@
+.header {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.header__img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  width: 200px;
+}
